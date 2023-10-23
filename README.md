@@ -1,6 +1,6 @@
 # Deploying with the CLI and Terraform Cloud
 
-Let's talk about the various options for deployment with Terraform Cloud. The new application you're using is not in source control at the moment, so we are going to deploy it using the CLI. We'll change that momentarily.
+Let's talk about the various options for deployment with Terraform Cloud. The new application you're using is not in source control at the moment, so we are going to deploy it using the CLI. We'll change that momentarily. Test
 
 ## Demos
 
